@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-image: url(https://exame.com/wp-content/uploads/2017/08/profissionais-de-ti.jpg);
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: floralwhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+form {
+    max-width: 700px;
+    margin: auto;
+    line-height: 1.5em;
+    border-radius: 5px;
+    border: 1px solid black;
+    background: rgba(27, 27, 50, 0.8);
+    height: 100%;
+}
+
+.form-group {
+    margin: auto;
+    padding: 0.25rem;
+    text-align: justify;
+    margin: 20px 30px 20px 30px;
+    
+}
+
+.form-control, textarea {
+    width: 100%;
+    height: 30px;
+    font-size: 1em;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+textarea {
+    height: 100px;
+}
+
+.input-button {
+    width: 100%;
+    height: 50px;
+    background-color: lightseagreen;
+    color: floralwhite;
+    font-size: 1em;
+}
+
+
